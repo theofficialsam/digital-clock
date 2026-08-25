@@ -69,7 +69,7 @@ The program requires a Python installation with Turtle graphics support.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/theofficialsam/digital-clock
 ```
 
 Navigate into the project:
